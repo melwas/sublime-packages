@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[controller('${1:Ctrl}', angular.cyn.newCtrl(${2:BaseCtrl}, [${3:'\$scope'}], {
+	
+	init: function(${4:\$scope}) {
+		this._super(\$scope);
+	},
+
+	defineScope: function() {
+		this.\$scope.model = {
+
+		};
+	}
+
+}))${5}]]></content>
+	<tabTrigger>ctrl</tabTrigger>
+	<scope>source.js</scope>
+	<description>New Ctrl</description>
+</snippet>
+

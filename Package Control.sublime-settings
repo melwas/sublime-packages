@@ -1,0 +1,33 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Darkula Color Scheme",
+		"Emmet",
+		"Git",
+		"Gradle_Language",
+		"Jasmine JS",
+		"JavaScript Snippets",
+		"Jedi - Python autocompletion",
+		"Material Theme",
+		"MaxPane",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeTmpl",
+		"Theme - Primer",
+		"Theme - Soda",
+		"Vanilla lodash Snippets"
+	]
+}

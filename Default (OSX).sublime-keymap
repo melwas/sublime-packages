@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+  	{ "keys": ["super+shift+r"], "command": "reindent"},
+    { "keys": ["super+ctrl+l"], "command": "angularjs_find"}
+]

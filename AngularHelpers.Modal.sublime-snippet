@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[this._dialog.openConfirm({
+	template: this._configuration.getPartialTemplateUrl('${1}'),
+	controller: '${2:Ctrl}',
+	className: 'ngdialog-theme-default ngdialog-theme-cayenne${3}'
+});]]></content>
+	<tabTrigger>modal</tabTrigger>
+	<scope>source.js</scope>
+	<description>New dialog</description>
+</snippet>
